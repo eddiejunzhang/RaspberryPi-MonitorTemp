@@ -65,4 +65,8 @@ else:
   print "wrong"
   print "temperature :", temperature, "*C, humidity :", humidity, "% check :", check, ", tmp :", tmp
 
+with open("log.txt","w") as f:
+  line = 'temperature :' + str(temperature)+ '*C, humidity :' + str(humidity)+ '%'
+  f.write(line)
+  
 GPIO.cleanup()
