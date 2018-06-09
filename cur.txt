@@ -1,2 +1,1 @@
-
-temperature :27*C, humidity :39% 2018-06-09 16:11:38 Status=High
+2018-06-09 19:52:47 temperature :26*C, humidity :36% Status=Low

@@ -5,4 +5,677 @@ temperature :26*C, humidity :34% 2018-06-09 16:04:43
 temperature :26*C, humidity :34% 2018-06-09 16:09:49
 temperature :26*C, humidity :35% 2018-06-09 16:10:46 Status=Low
 NODATA 2018-06-09 16:11:22
-temperature :27*C, humidity :39% 2018-06-09 16:11:38 Status=High
+temperature :27*C, humidity :39% 2018-06-09 16:11:38 Status=High2018-06-09 16:30:32 temperature :27*C, humidity :40% Status=High
+2018-06-09 16:31:04 temperature :26*C, humidity :35% Status=Low
+2018-06-09 16:51:09 temperature :26*C, humidity :34% Status=Low
+2018-06-09 16:51:40 temperature :26*C, humidity :34% Status=Low
+2018-06-09 16:52:10 temperature :26*C, humidity :34% Status=Low
+2018-06-09 16:52:40 temperature :26*C, humidity :34% Status=Low
+2018-06-09 16:53:10 temperature :26*C, humidity :34% Status=Low
+2018-06-09 16:53:40 temperature :26*C, humidity :34% Status=Low
+2018-06-09 16:54:11 temperature :26*C, humidity :34% Status=Low
+2018-06-09 16:54:41 temperature :26*C, humidity :34% Status=Low
+2018-06-09 16:55:17 temperature :26*C, humidity :36% Status=Low
+2018-06-09 16:55:47 NODATA
+2018-06-09 16:56:18 NODATA
+2018-06-09 16:56:48 NODATA
+2018-06-09 16:57:44 temperature :26*C, humidity :35% Status=Low
+2018-06-09 16:58:14 NODATA
+2018-06-09 16:58:44 NODATA
+2018-06-09 16:59:14 NODATA
+2018-06-09 17:12:54 temperature :26*C, humidity :35% Status=Low
+2018-06-09 17:13:24 NODATA
+2018-06-09 17:18:14 temperature :26*C, humidity :38% Status=Low
+2018-06-09 17:18:44 NODATA
+2018-06-09 17:19:14 NODATA
+2018-06-09 17:20:13 NODATA
+2018-06-09 17:20:43 NODATA
+2018-06-09 17:21:13 NODATA
+2018-06-09 17:21:43 NODATA
+2018-06-09 17:22:13 NODATA
+2018-06-09 17:22:44 NODATA
+2018-06-09 17:23:28 NODATA
+2018-06-09 17:24:53 temperature :26*C, humidity :35% Status=Low
+2018-06-09 17:26:05 temperature :26*C, humidity :35% Status=Low
+2018-06-09 17:31:57 temperature :26*C, humidity :36% Status=Low
+2018-06-09 17:34:06 NODATA
+2018-06-09 17:34:40 temperature :26*C, humidity :36% Status=Low
+2018-06-09 17:35:36 temperature :26*C, humidity :35% Status=Low
+2018-06-09 17:37:21 temperature :26*C, humidity :35% Status=Low
+2018-06-09 17:37:52 NODATA
+2018-06-09 17:41:17 temperature :26*C, humidity :35% Status=Low
+2018-06-09 17:41:47 NODATA
+2018-06-09 17:42:17 NODATA
+2018-06-09 17:42:48 NODATA
+2018-06-09 17:43:18 NODATA
+2018-06-09 17:43:48 NODATA
+2018-06-09 17:44:18 NODATA
+2018-06-09 17:44:49 NODATA
+2018-06-09 17:45:19 NODATA
+2018-06-09 17:45:49 NODATA
+2018-06-09 17:46:19 NODATA
+2018-06-09 17:46:50 NODATA
+2018-06-09 17:47:20 NODATA
+2018-06-09 17:47:50 NODATA
+2018-06-09 17:48:20 NODATA
+2018-06-09 17:48:51 NODATA
+2018-06-09 17:49:21 NODATA
+2018-06-09 17:49:51 NODATA
+2018-06-09 17:50:21 NODATA
+2018-06-09 17:50:52 NODATA
+2018-06-09 17:51:22 NODATA
+2018-06-09 17:51:52 NODATA
+2018-06-09 17:52:22 NODATA
+2018-06-09 17:52:53 NODATA
+2018-06-09 17:55:55 temperature :26*C, humidity :35% Status=Low
+2018-06-09 17:56:25 NODATA
+2018-06-09 17:57:29 NODATA
+2018-06-09 18:01:42 NODATA
+2018-06-09 18:04:25 temperature :26*C, humidity :35% Status=Low
+2018-06-09 18:05:33 temperature :26*C, humidity :37% Status=Low
+2018-06-09 18:07:17 NODATA
+2018-06-09 18:07:43 temperature :27*C, humidity :34% Status=High
+2018-06-09 18:09:09 NODATA
+2018-06-09 18:09:20 temperature :26*C, humidity :35% Status=Low
+2018-06-09 18:09:31 NODATA
+2018-06-09 18:09:42 temperature :27*C, humidity :33% Status=High
+2018-06-09 18:10:56 temperature :27*C, humidity :33% Status=High
+2018-06-09 18:11:06 NODATA
+2018-06-09 18:11:17 NODATA
+2018-06-09 18:11:27 NODATA
+2018-06-09 18:11:37 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:11:47 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:11:57 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:12:07 NODATA
+2018-06-09 18:12:18 NODATA
+2018-06-09 18:12:28 NODATA
+2018-06-09 18:12:38 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:12:48 temperature :27*C, humidity :35% Status=High
+2018-06-09 18:12:59 NODATA
+2018-06-09 18:13:09 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:13:19 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:13:29 NODATA
+2018-06-09 18:13:39 NODATA
+2018-06-09 18:13:50 temperature :26*C, humidity :36% Status=Low
+2018-06-09 18:14:00 temperature :26*C, humidity :36% Status=Low
+2018-06-09 18:14:10 temperature :26*C, humidity :36% Status=Low
+2018-06-09 18:14:20 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:14:30 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:14:41 NODATA
+2018-06-09 18:14:51 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:15:01 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:15:11 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:15:21 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:15:32 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:15:42 NODATA
+2018-06-09 18:15:52 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:16:02 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:16:12 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:16:23 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:16:33 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:16:43 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:16:53 NODATA
+2018-06-09 18:17:03 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:17:14 NODATA
+2018-06-09 18:17:24 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:17:34 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:17:44 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:17:54 NODATA
+2018-06-09 18:18:05 NODATA
+2018-06-09 18:18:15 temperature :26*C, humidity :35% Status=Low
+2018-06-09 18:18:25 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:18:35 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:18:46 NODATA
+2018-06-09 18:18:56 temperature :26*C, humidity :35% Status=Low
+2018-06-09 18:19:06 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:19:16 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:19:26 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:19:37 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:19:47 temperature :26*C, humidity :35% Status=Low
+2018-06-09 18:19:57 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:20:07 temperature :26*C, humidity :36% Status=Low
+2018-06-09 18:20:17 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:20:27 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:20:38 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:20:48 NODATA
+2018-06-09 18:20:58 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:21:08 NODATA
+2018-06-09 18:21:18 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:21:29 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:21:39 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:21:49 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:21:59 NODATA
+2018-06-09 18:22:10 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:22:20 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:22:30 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:22:40 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:22:50 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:23:01 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:23:11 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:23:21 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:23:31 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:23:41 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:23:52 NODATA
+2018-06-09 18:24:02 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:24:12 NODATA
+2018-06-09 18:24:22 temperature :26*C, humidity :36% Status=Low
+2018-06-09 18:24:32 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:24:42 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:24:53 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:25:03 NODATA
+2018-06-09 18:25:13 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:25:23 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:25:34 NODATA
+2018-06-09 18:25:44 temperature :27*C, humidity :35% Status=High
+2018-06-09 18:25:54 NODATA
+2018-06-09 18:26:04 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:26:14 NODATA
+2018-06-09 18:26:25 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:26:35 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:26:45 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:26:55 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:27:05 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:27:15 temperature :26*C, humidity :36% Status=Low
+2018-06-09 18:27:26 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:27:36 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:27:46 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:27:56 NODATA
+2018-06-09 18:28:06 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:28:17 NODATA
+2018-06-09 18:28:27 NODATA
+2018-06-09 18:28:37 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:28:47 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:28:57 temperature :26*C, humidity :35% Status=Low
+2018-06-09 18:29:08 NODATA
+2018-06-09 18:29:18 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:29:28 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:29:38 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:29:48 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:29:58 temperature :26*C, humidity :36% Status=Low
+2018-06-09 18:30:09 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:30:19 NODATA
+2018-06-09 18:30:29 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:30:39 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:30:49 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:31:00 temperature :26*C, humidity :36% Status=Low
+2018-06-09 18:31:10 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:31:20 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:31:30 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:31:40 temperature :26*C, humidity :36% Status=Low
+2018-06-09 18:31:51 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:32:01 NODATA
+2018-06-09 18:32:11 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:32:21 NODATA
+2018-06-09 18:32:31 temperature :26*C, humidity :35% Status=Low
+2018-06-09 18:32:42 temperature :26*C, humidity :35% Status=Low
+2018-06-09 18:32:52 temperature :26*C, humidity :36% Status=Low
+2018-06-09 18:33:02 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:33:12 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:33:22 temperature :26*C, humidity :35% Status=Low
+2018-06-09 18:33:33 NODATA
+2018-06-09 18:33:43 NODATA
+2018-06-09 18:33:53 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:34:03 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:34:13 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:34:24 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:34:34 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:34:44 NODATA
+2018-06-09 18:34:54 NODATA
+2018-06-09 18:35:04 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:35:15 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:35:25 NODATA
+2018-06-09 18:35:35 NODATA
+2018-06-09 18:35:45 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:35:55 NODATA
+2018-06-09 18:36:06 NODATA
+2018-06-09 18:36:16 NODATA
+2018-06-09 18:36:26 NODATA
+2018-06-09 18:36:36 temperature :27*C, humidity :35% Status=High
+2018-06-09 18:36:47 temperature :26*C, humidity :35% Status=Low
+2018-06-09 18:36:57 temperature :27*C, humidity :35% Status=High
+2018-06-09 18:37:07 NODATA
+2018-06-09 18:37:17 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:37:27 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:37:38 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:37:48 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:37:58 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:38:08 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:38:18 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:38:29 NODATA
+2018-06-09 18:38:39 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:38:49 temperature :26*C, humidity :36% Status=Low
+2018-06-09 18:38:59 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:39:09 NODATA
+2018-06-09 18:39:20 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:39:30 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:39:40 temperature :26*C, humidity :35% Status=Low
+2018-06-09 18:39:50 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:40:00 temperature :27*C, humidity :35% Status=High
+2018-06-09 18:40:11 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:40:21 NODATA
+2018-06-09 18:40:31 temperature :27*C, humidity :35% Status=High
+2018-06-09 18:40:41 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:40:51 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:41:02 NODATA
+2018-06-09 18:41:12 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:41:22 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:41:32 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:41:42 NODATA
+2018-06-09 18:41:53 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:42:03 NODATA
+2018-06-09 18:42:13 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:42:23 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:42:34 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:42:44 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:42:54 NODATA
+2018-06-09 18:43:04 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:43:14 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:43:25 NODATA
+2018-06-09 18:43:35 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:43:45 NODATA
+2018-06-09 18:43:55 NODATA
+2018-06-09 18:44:05 temperature :26*C, humidity :36% Status=Low
+2018-06-09 18:44:16 NODATA
+2018-06-09 18:44:26 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:44:36 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:44:46 NODATA
+2018-06-09 18:44:56 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:45:07 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:45:17 NODATA
+2018-06-09 18:45:27 NODATA
+2018-06-09 18:45:37 NODATA
+2018-06-09 18:45:48 NODATA
+2018-06-09 18:45:58 NODATA
+2018-06-09 18:46:08 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:46:18 temperature :26*C, humidity :35% Status=Low
+2018-06-09 18:46:28 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:46:39 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:46:49 temperature :27*C, humidity :35% Status=High
+2018-06-09 18:46:59 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:47:09 NODATA
+2018-06-09 18:47:19 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:47:30 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:47:40 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:47:50 NODATA
+2018-06-09 18:48:00 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:48:10 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:48:21 temperature :26*C, humidity :35% Status=Low
+2018-06-09 18:48:31 temperature :26*C, humidity :35% Status=Low
+2018-06-09 18:48:41 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:48:51 temperature :26*C, humidity :36% Status=Low
+2018-06-09 18:49:01 NODATA
+2018-06-09 18:49:12 temperature :26*C, humidity :36% Status=Low
+2018-06-09 18:49:22 temperature :26*C, humidity :35% Status=Low
+2018-06-09 18:49:32 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:49:42 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:49:52 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:50:03 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:50:13 NODATA
+2018-06-09 18:50:23 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:50:33 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:50:43 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:50:54 NODATA
+2018-06-09 18:51:04 temperature :27*C, humidity :35% Status=High
+2018-06-09 18:51:14 temperature :26*C, humidity :35% Status=Low
+2018-06-09 18:51:24 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:51:34 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:51:45 NODATA
+2018-06-09 18:51:55 NODATA
+2018-06-09 18:52:05 NODATA
+2018-06-09 18:52:15 NODATA
+2018-06-09 18:52:26 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:52:36 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:52:46 NODATA
+2018-06-09 18:52:56 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:53:06 NODATA
+2018-06-09 18:53:17 NODATA
+2018-06-09 18:53:27 NODATA
+2018-06-09 18:53:37 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:53:47 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:53:57 NODATA
+2018-06-09 18:54:08 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:54:18 temperature :27*C, humidity :35% Status=High
+2018-06-09 18:54:28 NODATA
+2018-06-09 18:54:38 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:54:48 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:54:59 NODATA
+2018-06-09 18:55:09 NODATA
+2018-06-09 18:55:19 temperature :26*C, humidity :35% Status=Low
+2018-06-09 18:55:29 temperature :27*C, humidity :35% Status=High
+2018-06-09 18:55:39 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:55:50 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:56:00 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:56:10 NODATA
+2018-06-09 18:56:20 temperature :27*C, humidity :33% Status=High
+2018-06-09 18:56:30 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:56:41 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:56:51 NODATA
+2018-06-09 18:57:01 temperature :27*C, humidity :35% Status=High
+2018-06-09 18:57:11 temperature :26*C, humidity :35% Status=Low
+2018-06-09 18:57:21 NODATA
+2018-06-09 18:57:32 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:57:42 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:57:52 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:58:02 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:58:12 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:58:23 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:58:33 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:58:43 temperature :26*C, humidity :36% Status=Low
+2018-06-09 18:58:53 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:59:03 temperature :27*C, humidity :35% Status=High
+2018-06-09 18:59:14 NODATA
+2018-06-09 18:59:24 NODATA
+2018-06-09 18:59:34 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:59:44 temperature :26*C, humidity :34% Status=Low
+2018-06-09 18:59:54 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:00:05 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:00:15 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:00:25 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:00:35 temperature :26*C, humidity :36% Status=Low
+2018-06-09 19:00:45 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:00:56 NODATA
+2018-06-09 19:01:06 NODATA
+2018-06-09 19:01:16 temperature :26*C, humidity :36% Status=Low
+2018-06-09 19:01:26 NODATA
+2018-06-09 19:01:36 NODATA
+2018-06-09 19:01:47 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:01:57 NODATA
+2018-06-09 19:02:07 NODATA
+2018-06-09 19:02:17 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:02:27 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:02:38 NODATA
+2018-06-09 19:02:48 temperature :26*C, humidity :36% Status=Low
+2018-06-09 19:02:58 temperature :26*C, humidity :35% Status=Low
+2018-06-09 19:03:08 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:03:18 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:03:29 NODATA
+2018-06-09 19:03:39 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:03:49 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:03:59 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:04:09 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:04:20 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:04:30 NODATA
+2018-06-09 19:04:40 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:04:50 NODATA
+2018-06-09 19:05:00 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:05:11 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:05:21 NODATA
+2018-06-09 19:05:31 NODATA
+2018-06-09 19:05:41 NODATA
+2018-06-09 19:05:52 NODATA
+2018-06-09 19:06:02 NODATA
+2018-06-09 19:06:12 temperature :26*C, humidity :36% Status=Low
+2018-06-09 19:06:22 NODATA
+2018-06-09 19:06:32 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:06:43 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:06:53 NODATA
+2018-06-09 19:07:03 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:07:13 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:07:23 NODATA
+2018-06-09 19:07:34 NODATA
+2018-06-09 19:07:44 NODATA
+2018-06-09 19:07:54 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:08:04 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:08:15 NODATA
+2018-06-09 19:08:25 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:08:35 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:08:45 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:08:55 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:09:06 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:09:16 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:09:26 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:09:36 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:09:46 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:09:56 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:10:07 NODATA
+2018-06-09 19:10:17 temperature :27*C, humidity :35% Status=High
+2018-06-09 19:10:27 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:10:37 NODATA
+2018-06-09 19:10:47 NODATA
+2018-06-09 19:10:58 temperature :27*C, humidity :35% Status=High
+2018-06-09 19:11:08 NODATA
+2018-06-09 19:11:18 NODATA
+2018-06-09 19:11:28 NODATA
+2018-06-09 19:11:39 NODATA
+2018-06-09 19:11:49 temperature :26*C, humidity :35% Status=Low
+2018-06-09 19:11:59 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:12:09 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:12:19 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:12:30 temperature :26*C, humidity :35% Status=Low
+2018-06-09 19:12:40 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:12:50 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:13:00 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:13:10 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:13:21 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:13:31 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:13:41 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:13:51 temperature :26*C, humidity :36% Status=Low
+2018-06-09 19:14:01 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:14:12 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:14:22 NODATA
+2018-06-09 19:14:32 NODATA
+2018-06-09 19:14:42 NODATA
+2018-06-09 19:14:52 NODATA
+2018-06-09 19:15:03 NODATA
+2018-06-09 19:15:13 NODATA
+2018-06-09 19:15:23 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:15:33 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:15:43 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:15:54 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:16:04 NODATA
+2018-06-09 19:16:14 NODATA
+2018-06-09 19:16:24 NODATA
+2018-06-09 19:16:35 NODATA
+2018-06-09 19:16:45 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:16:55 NODATA
+2018-06-09 19:17:05 NODATA
+2018-06-09 19:17:16 NODATA
+2018-06-09 19:17:26 NODATA
+2018-06-09 19:17:36 NODATA
+2018-06-09 19:17:46 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:17:56 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:18:07 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:18:17 NODATA
+2018-06-09 19:18:27 NODATA
+2018-06-09 19:18:37 NODATA
+2018-06-09 19:18:47 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:18:58 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:19:08 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:19:18 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:19:28 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:19:38 NODATA
+2018-06-09 19:19:49 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:19:59 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:20:09 NODATA
+2018-06-09 19:20:19 NODATA
+2018-06-09 19:20:29 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:20:40 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:20:50 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:21:00 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:21:10 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:21:20 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:21:31 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:21:41 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:21:51 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:22:01 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:22:11 temperature :26*C, humidity :36% Status=Low
+2018-06-09 19:22:22 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:22:32 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:22:42 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:22:52 temperature :26*C, humidity :35% Status=Low
+2018-06-09 19:23:02 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:23:12 temperature :26*C, humidity :36% Status=Low
+2018-06-09 19:23:23 NODATA
+2018-06-09 19:23:33 temperature :26*C, humidity :35% Status=Low
+2018-06-09 19:23:43 NODATA
+2018-06-09 19:23:53 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:24:04 NODATA
+2018-06-09 19:24:14 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:24:24 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:24:34 NODATA
+2018-06-09 19:24:44 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:24:55 NODATA
+2018-06-09 19:25:05 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:25:15 NODATA
+2018-06-09 19:25:25 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:25:35 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:25:46 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:25:56 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:26:06 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:26:16 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:26:26 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:26:36 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:26:47 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:26:57 NODATA
+2018-06-09 19:27:07 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:27:17 temperature :26*C, humidity :36% Status=Low
+2018-06-09 19:27:27 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:27:38 NODATA
+2018-06-09 19:27:48 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:27:58 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:28:08 NODATA
+2018-06-09 19:28:19 NODATA
+2018-06-09 19:28:29 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:28:39 NODATA
+2018-06-09 19:28:49 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:28:59 temperature :26*C, humidity :36% Status=Low
+2018-06-09 19:29:09 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:29:20 NODATA
+2018-06-09 19:29:30 NODATA
+2018-06-09 19:29:40 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:29:50 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:30:01 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:30:11 NODATA
+2018-06-09 19:30:21 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:30:31 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:30:41 NODATA
+2018-06-09 19:30:52 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:31:02 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:31:12 NODATA
+2018-06-09 19:31:22 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:31:32 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:31:43 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:31:53 temperature :26*C, humidity :35% Status=Low
+2018-06-09 19:32:03 NODATA
+2018-06-09 19:32:13 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:32:23 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:32:34 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:32:44 NODATA
+2018-06-09 19:32:54 NODATA
+2018-06-09 19:33:04 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:33:14 temperature :26*C, humidity :35% Status=Low
+2018-06-09 19:33:25 NODATA
+2018-06-09 19:33:35 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:33:45 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:33:55 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:34:05 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:34:16 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:34:26 NODATA
+2018-06-09 19:34:36 temperature :26*C, humidity :36% Status=Low
+2018-06-09 19:34:46 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:34:56 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:35:07 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:35:17 temperature :26*C, humidity :36% Status=Low
+2018-06-09 19:35:27 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:35:37 temperature :26*C, humidity :36% Status=Low
+2018-06-09 19:35:47 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:35:57 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:36:08 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:36:18 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:36:28 temperature :26*C, humidity :35% Status=Low
+2018-06-09 19:36:38 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:36:48 temperature :26*C, humidity :36% Status=Low
+2018-06-09 19:36:58 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:37:09 temperature :26*C, humidity :36% Status=Low
+2018-06-09 19:37:19 NODATA
+2018-06-09 19:37:29 temperature :26*C, humidity :36% Status=Low
+2018-06-09 19:37:39 temperature :26*C, humidity :35% Status=Low
+2018-06-09 19:37:49 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:38:00 NODATA
+2018-06-09 19:38:10 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:38:20 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:38:30 NODATA
+2018-06-09 19:38:41 NODATA
+2018-06-09 19:38:51 NODATA
+2018-06-09 19:39:01 temperature :26*C, humidity :35% Status=Low
+2018-06-09 19:39:11 temperature :26*C, humidity :35% Status=Low
+2018-06-09 19:39:21 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:39:32 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:39:42 temperature :26*C, humidity :35% Status=Low
+2018-06-09 19:39:52 NODATA
+2018-06-09 19:40:02 temperature :26*C, humidity :35% Status=Low
+2018-06-09 19:40:12 NODATA
+2018-06-09 19:40:23 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:40:33 temperature :27*C, humidity :35% Status=High
+2018-06-09 19:40:43 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:40:53 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:41:03 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:41:14 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:41:24 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:41:34 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:41:44 NODATA
+2018-06-09 19:41:54 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:42:04 temperature :26*C, humidity :35% Status=Low
+2018-06-09 19:42:15 NODATA
+2018-06-09 19:42:25 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:42:35 temperature :26*C, humidity :36% Status=Low
+2018-06-09 19:42:45 NODATA
+2018-06-09 19:42:55 temperature :26*C, humidity :36% Status=Low
+2018-06-09 19:43:06 NODATA
+2018-06-09 19:43:16 temperature :26*C, humidity :36% Status=Low
+2018-06-09 19:43:26 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:43:36 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:43:47 NODATA
+2018-06-09 19:43:57 NODATA
+2018-06-09 19:44:07 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:44:17 NODATA
+2018-06-09 19:44:27 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:44:38 NODATA
+2018-06-09 19:44:48 NODATA
+2018-06-09 19:44:58 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:45:08 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:45:18 temperature :27*C, humidity :35% Status=High
+2018-06-09 19:45:29 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:45:39 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:45:49 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:45:59 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:46:09 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:46:19 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:46:30 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:46:40 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:46:50 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:47:00 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:47:10 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:47:21 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:47:31 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:47:41 NODATA
+2018-06-09 19:47:51 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:48:01 NODATA
+2018-06-09 19:48:12 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:48:22 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:48:32 NODATA
+2018-06-09 19:48:42 NODATA
+2018-06-09 19:48:52 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:49:03 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:49:13 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:49:23 temperature :26*C, humidity :37% Status=Low
+2018-06-09 19:49:33 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:49:43 NODATA
+2018-06-09 19:49:54 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:50:04 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:50:14 NODATA
+2018-06-09 19:50:24 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:50:34 NODATA
+2018-06-09 19:50:45 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:50:55 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:51:05 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:51:15 temperature :26*C, humidity :36% Status=Low
+2018-06-09 19:51:25 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:51:36 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:51:46 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:51:56 NODATA
+2018-06-09 19:52:06 temperature :26*C, humidity :35% Status=Low
+2018-06-09 19:52:16 NODATA
+2018-06-09 19:52:27 temperature :26*C, humidity :34% Status=Low
+2018-06-09 19:52:37 temperature :27*C, humidity :35% Status=High
+2018-06-09 19:52:47 temperature :26*C, humidity :36% Status=Low
