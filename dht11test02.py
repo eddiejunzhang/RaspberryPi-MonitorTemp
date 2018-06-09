@@ -65,7 +65,7 @@ else:
   print "wrong"
   print "temperature :", temperature, "*C, humidity :", humidity, "% check :", check, ", tmp :", tmp
 
-with open("log.txt") as f:
+with open("log.txt","w") as f:
   line="temperature :", temperature, "*C, humidity :", humidity, "%"
   f.write(line)
   
