@@ -59,14 +59,25 @@ for i in range(8):
 
 tmp = humidity + humidity_point + temperature + temperature_point
 
+status="Low"
+if temperature>26:
+  status="High"
+if temperature>27:
+  status="Danger"
+
 if check == tmp:
   print "temperature :", temperature, "*C, humidity :", humidity, "%"
+  with open("log.txt","a") as f:
+    line = '\n'+ 'temperature :' + str(temperature)+ '*C, humidity :' + str(humidity)+ '% '+ time.strftime("%Y-%m-%d %H:%M:%S",time.localtime()) + ' Status='+status
+    f.write(line)
+  with open('cur.txt','w') as f:
+    f.write(line)
 else:
   print "wrong"
   print "temperature :", temperature, "*C, humidity :", humidity, "% check :", check, ", tmp :", tmp
-
-with open("log.txt","w") as f:
-  line = 'temperature :' + str(temperature)+ '*C, humidity :' + str(humidity)+ '%'
-  f.write(line)
-  
+  with open("log.txt","a") as f:
+    line = '\n'+ 'NODATA '+ time.strftime("%Y-%m-%d %H:%M:%S",time.localtime())
+    f.write(line)
+  with open('cur.txt','w') as f:
+    f.write(line)
 GPIO.cleanup()
