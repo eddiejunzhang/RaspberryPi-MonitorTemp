@@ -1,6 +1,10 @@
 # RaspberryPi-MonitorTemp
-Monitor temperature in server room.
-Make status file.
+MY IDEA:
+I want to monitor temperature in server room with JianKongYi which has been deployed in DC.
+I fix DTH11 with Pi, write Python code which can obtain temperature value and write into a log file.
+
 JianKongYi(www.jiankongyi.com)
-Install agent of "agent Linux" in Pi.
-Then JKY fetches the key words in status file.
+
+I also neet to install agent of "agent Linux" which is from JKY in Pi.
+
+JKY will fetch the key words in status file.
