@@ -68,7 +68,7 @@ if temperature>27:
 if check == tmp:
   print "temperature :", temperature, "*C, humidity :", humidity, "%"
   with open("log.txt","a") as f:
-    line = '\n'+ 'temperature :' + str(temperature)+ '*C, humidity :' + str(humidity)+ '% '+ time.strftime("%Y-%m-%d %H:%M:%S",time.localtime()) + ' Status='+status
+    line = time.strftime("%Y-%m-%d %H:%M:%S",time.localtime()) + ' temperature :' + str(temperature)+ '*C, humidity :' + str(humidity)+ '%'+ ' Status=' + status + '\n'
     f.write(line)
   with open('cur.txt','w') as f:
     f.write(line)
@@ -76,8 +76,9 @@ else:
   print "wrong"
   print "temperature :", temperature, "*C, humidity :", humidity, "% check :", check, ", tmp :", tmp
   with open("log.txt","a") as f:
-    line = '\n'+ 'NODATA '+ time.strftime("%Y-%m-%d %H:%M:%S",time.localtime())
+    line = time.strftime("%Y-%m-%d %H:%M:%S",time.localtime()) + ' NODATA'+ '\n' 
     f.write(line)
   with open('cur.txt','w') as f:
     f.write(line)
+    
 GPIO.cleanup()
